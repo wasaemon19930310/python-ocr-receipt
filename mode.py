@@ -1,7 +1,7 @@
 import os
 import cv2
 
-filename = '/home/sakuma/Developments/python/receipt.jpg'
+filename = 'receipt.jpg'
 input_file = None
 input_file_gray = None
 input_file_blur = None
